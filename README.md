@@ -1,3 +1,5 @@
+![Kaggle]("C:\Users\91635\Downloads\kaggle.jpg")
+
 # Kaggle Projects Repository
 
 Welcome to my Kaggle Projects repository! This repository serves as a collection of data science and machine learning projects that I have completed on Kaggle. Each project demonstrates my skills in data analysis, feature engineering, model building, and evaluation, utilizing various datasets available on the Kaggle platform.
