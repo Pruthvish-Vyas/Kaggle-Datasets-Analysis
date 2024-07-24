@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/ce50305f-0b4c-4427-a3bb-6149c36bb903)
-
 # Kaggle Projects Repository
 
 Welcome to my Kaggle Projects repository! This repository serves as a collection of data science and machine learning projects that I have completed on Kaggle. Each project demonstrates my skills in data analysis, feature engineering, model building, and evaluation, utilizing various datasets available on the Kaggle platform.
+
+![image](https://github.com/user-attachments/assets/ce50305f-0b4c-4427-a3bb-6149c36bb903)
+
 
 ## Contents
 
