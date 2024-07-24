@@ -1,4 +1,4 @@
-![Kaggle]("C:\Users\91635\Downloads\kaggle.jpg")
+![image](https://github.com/user-attachments/assets/ce50305f-0b4c-4427-a3bb-6149c36bb903)
 
 # Kaggle Projects Repository
 
