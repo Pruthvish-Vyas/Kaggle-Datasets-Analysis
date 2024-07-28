@@ -8,3 +8,4 @@ The car makes and models were selected from popular vehicles available in the ma
 Whether you are an automotive enthusiast, a data scientist, or a machine learning practitioner, this dataset offers a rich foundation for your projects. It can be used to develop machine learning models to predict car prices, analyze trends in the automotive market, compare different car makes and models, study the distribution and evolution of fuel types, or for educational purposes in data science and machine learning courses.
 
 The data was meticulously generated using the Faker library to simulate realistic car specifications. This dataset is versatile and can be used for a wide array of projects, making it a valuable tool in your analytical and predictive endeavors.
+- [Kaggle Dateset](https://www.kaggle.com/datasets/waqi786/cars-dataset-2010-2020)
